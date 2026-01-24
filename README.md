@@ -12,6 +12,8 @@
 >
 > Visit [esp-idf-lib/core/discussions](https://github.com/esp-idf-lib/core/discussions)
 > for discussions and questions.
+>
+> Please do not use this repository!
 
 
 Components for Espressif ESP32 [ESP-IDF framework](https://github.com/espressif/esp-idf)
